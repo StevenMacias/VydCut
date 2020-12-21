@@ -23,7 +23,7 @@ video_results={
     "Clean":0,
     "Slime":0,
     "Phytoplankton":0,
-    "Zooplankton":0
+    "Zooplankton":0,
 }
 video_files = {
   "/home/steven/workspace/greensteam/nas/steven/Special_Course/Taarbaek_1/T1_1.MP4":
@@ -434,6 +434,78 @@ video_files = {
     [t2s(0,29),t2s(0,40), "Clean"],
     [t2s(0,41),t2s(0,43), "Phytoplankton"],
     [t2s(0,48),t2s(0,52), "Phytoplankton"],
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_1.MP4":
+  [
+    [t2s(0,29),t2s(0,35), "Clean"]
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_2.MP4":
+  [
+    [t2s(0,28),t2s(0,33), "Clean"],
+    [t2s(1,4),t2s(1,11), "Clean"],
+    [t2s(1,18),t2s(1,36), "Clean"],
+    [t2s(2,28),t2s(2,50), "Slime"],
+    [t2s(3,28),t2s(3,53), "Slime"],
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_3.MP4":
+  [
+    [t2s(0,33),t2s(2,3), "Phytoplankton"],
+    [t2s(2,31),t2s(2,41), "Zooplankton"],
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_4.MP4":
+  [
+    [t2s(0,38),t2s(1,52), "Phytoplankton"]
+    
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_5.MP4":
+  [
+    [t2s(0,35),t2s(2,22), "Phytoplankton"]
+    
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_6.MP4":
+  [
+    [t2s(0,27),t2s(1,5), "Phytoplankton"],
+    [t2s(1,8),t2s(1,25), "Zooplankton"],
+    
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_7.MP4":
+  [
+    [t2s(0,20),t2s(0,45), "Phytoplankton"],
+    [t2s(0,51),t2s(1,0), "Zooplankton"],
+    
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_8.MP4":
+  [
+    [t2s(0,20),t2s(0,45), "Phytoplankton"],
+    [t2s(0,51),t2s(1,0), "Zooplankton"],
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_9.MP4":
+  [
+    [t2s(0,40),t2s(2,50), "Phytoplankton"],
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_10.MP4":
+  [
+    [t2s(1,0),t2s(2,50), "Phytoplankton"],
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_11.MP4":
+  [
+    [t2s(0,32),t2s(1,50), "Phytoplankton"],
+  ]
+  ,
+  "/home/steven/workspace/greensteam/nas/steven/Special_Course/dfds_pearl_1/DFDS_PEARL_1_12.MP4":
+  [
+    [t2s(0,51),t2s(1,22), "Slime"],
   ]
 }
 
